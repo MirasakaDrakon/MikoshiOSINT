@@ -1,0 +1,5 @@
+MikoshiOSINT - A toolkit like a multitool
+
+Start: bash MikoshiOSINT.sh
+
+Requirements(apt): python3 ffmpeg unrar p7zip nmap bc awk bash coreutils grep ping iproute2 net-tools traceroute dnsutils dirb whois 
